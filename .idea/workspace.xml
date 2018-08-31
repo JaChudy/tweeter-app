@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Warsztat06:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da06bf7a-3b40-4880-8db9-80647f8195fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework_01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/Homework_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/app/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/app/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/beans/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/beans/CustomerLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/beans/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/beans/MemoryCustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_01/src/main/java/pl/coderslab/beans/SimpleCustomerLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_Exam_5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_Exam_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_Exam_6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JEE_Exam_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/java/pl/coderslab/app/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/java/pl/coderslab/app/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/java/pl/coderslab/bean/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/java/pl/coderslab/contoller/HomeControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/java/pl/coderslab/contoller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotePad/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/app/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/app/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Auto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Auto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01Java/src/main/java/pl/coderslab/beans/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/Spring01hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/DAO/AbstractDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/DAO/AuthorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/DAO/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/DAO/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/DAO/PublisherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/app/SpringDIApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/PersonDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/PropositionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/PublisherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/controller/ValidationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/AbstractEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/PersonDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/projections/BookTitleAndRatingProj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/repository/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/repository/PublisherRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/domain/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/mvc/converters/AuthorEntityConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/mvc/converters/PublisherEntityConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/mvc/init/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/mvc/init/DTO/PersonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/validator/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/validator/AgeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/java/pl/coderslab/validator/ValidationBookGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/add_author.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/add_book.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/add_person.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/add_proposition.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/add_publisher.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/author_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/book_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/delete_book.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/edit_author.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/edit_book.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/edit_proposition.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/person-details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/propositions_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01hibernate/src/main/webapp/WEB-INF/views/form/validate_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/java/pl/coderslab/app/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/java/pl/coderslab/beans/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/java/pl/coderslab/beans/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/java/pl/coderslab/beans/MessageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/java/pl/coderslab/beans/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring01xmlTest/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/DAO/ProduktDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/app/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/app/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/bean/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/bean/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/FormContoroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/FreeTimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/MultiplyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/RandomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/java/pl/coderslab/controller/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/WEB-INF/views/helloViewResolver.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/WEB-INF/views/multiply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/WEB-INF/views/multiply2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring02mvc/src/main/webapp/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/SpringCMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/Controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/Controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/Controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/Controller/HomePageControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/DAO/ArticleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/DAO/AuthorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/DAO/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/entity/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/entity/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/mvc/converters/AuthorEntityConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/mvc/converters/CategoryEntityConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/java/pl/coderslab/mvc/init/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/webapp/WEB-INF/views/add_category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/webapp/WEB-INF/views/all_category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/webapp/WEB-INF/views/edit_category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCMS/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warsztat06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/mvc/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/init/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Warsztaty_05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Warsztaty_05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zadanie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zadanie1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1961797943">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="385" />
+          <entry key="xml" value="405" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="385" />
+          <entry key="XML" value="405" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="22" selection-start-line="22" selection-end-line="99" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/config/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="65" column="23" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#2453#2454#0" expanded="true" />
+                <element signature="e#2507#2508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/mvc/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/init/WebInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/twweter/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/init/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/mvc/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/config/WebConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="972" />
+    <option name="y" value="51" />
+    <option name="width" value="944" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="tweeter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="tweeter" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="tweeter" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535711046489" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Warsztat06:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Warsztat06" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45993" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Warsztat06:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da06bf7a-3b40-4880-8db9-80647f8195fe" name="Default Changelist" comment="" />
+      <created>1535707992298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535707992298</updated>
+      <workItem from="1535707995983" duration="3738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3738000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="972" y="51" width="944" height="1024" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.344098" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.32924107" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.33035713" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.2494432" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="22" selection-start-line="22" selection-end-line="99" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/mvc/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/init/WebInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/tweeter/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#2453#2454#0" expanded="true" />
+            <element signature="e#2507#2508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
