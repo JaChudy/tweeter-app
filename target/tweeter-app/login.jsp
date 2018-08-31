@@ -17,7 +17,7 @@
 </head>
 <body>
 <div>
-    <form method="post" action="/login">
+    <form method="post" action="/login.jsp">
         <fieldset>
         <legend> Podaj dane logowania</legend>
             <div>
@@ -30,6 +30,7 @@
         <fieldset>
             <input type="submit" value="Zaloguj"/>
         </fieldset>
+
     </form>
 </div>
 

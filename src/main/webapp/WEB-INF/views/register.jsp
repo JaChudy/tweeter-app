@@ -1,3 +1,4 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <%--
   Created by IntelliJ IDEA.
   User: kuba
@@ -12,18 +13,18 @@
 </head>
 <body>
 <div>
-    <form method="post" action="/register">
+    <form:form method="post" modelAttribute="user">
         <fieldset>
             <legend>Podaj dane uzytkownika</legend>
         </fieldset>
         <div>
-            <input type="text" name="username" placeholder="Podaj login"/>
+            Login <form:input path="username"/>
         </div>
         <div>
-            <input type="email" name="email" placeholder="Podaj email"/>
+            Password <form:password path="password"/>
         </div>
         <div>
-            <input type="password" name="password" placeholder="Podaj haslo"/>
+            Email: <form:input path="email"/>
         </div>
         <fieldset>
             <span>
@@ -33,7 +34,7 @@
                 <input type="submit" value="Wyślij"/>
             </span>
         </fieldset>
-    </form>
+    </form:form>
 
 </div>
 
